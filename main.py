@@ -5,6 +5,8 @@
 ##  Resources:            ##
 ##						  ##
 ## https://tutorials.botsfloor.com/creating-chatbots-for-discord-90407e1bf382
+## https://discordpy.readthedocs.io/en/latest/api.html
+
 
 import database #user database
 import secrets  #bot token, id and secret.
